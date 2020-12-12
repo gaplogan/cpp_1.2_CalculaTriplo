@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main() //comando de início do programa 
 {
     setlocale(LC_ALL, "Portuguese");
 
